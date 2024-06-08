@@ -1,2 +1,2 @@
 # AlexVillegas
-Este es in repositorio.
+Este es un repositorio.
